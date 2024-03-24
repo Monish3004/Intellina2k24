@@ -1,0 +1,31 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #030637;
+    background-image: url("../images/techBgs/PaperProse_bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #fb2576;
+}
+
+div {
+    display: inline-block;
+    width: 400px;
+    height: auto;
+    justify-content: center;
+    border: 2px solid lightgoldenrodyellow;
+    margin: 5px;
+    padding: 5px;
+}
+
+a {
+    color: hotpink;
+    text-decoration: none;
+}
+
+#event-main-title {
+    text-align: center;
+    font-variant: small-caps;
+}
